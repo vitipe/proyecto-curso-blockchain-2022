@@ -1,0 +1,12 @@
+#header {
+  margin-bottom: 20px;
+}
+
+#entradas {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr)
+}
+
+.entrada {
+  margin-bottom: 20px;
+}
