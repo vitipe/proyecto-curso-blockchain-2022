@@ -7,8 +7,6 @@ Proyecto de dApp usando web3 para final de curso Blockchain.
 - Ganache
 - Metamask
 - Parcel
-- NodeJS
-
 ## Instalación y ejecución
 
 * Instalar las dependencias utilizando `npm install`
